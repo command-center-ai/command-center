@@ -1,15 +1,15 @@
 {
   "_source": "Published from the private Command Center repository, which is the SOURCE OF TRUTH for this file: it lives there as `packaging/nix/sources.json`, and is copied here by the `nix-flake` stage of that repository's release pipeline on every release. Edits made in this repository are silently overwritten by the next release — report a problem instead of patching it here.",
-  "version": "1.2.2",
-  "tag": "electron-v1.2.2",
+  "version": "1.3.0",
+  "tag": "electron-v1.3.0",
   "assets": {
     "x86_64-linux": {
-      "url": "https://github.com/command-center-ai/command-center/releases/download/electron-v1.2.2/Command-Center-1.2.2-x86_64.AppImage",
-      "hash": "sha512-RQ0Za5bG37hWMdbdpA8zIQB4ncrD1Yh3CQgYrOHMP6MQiiBg2+SJwb0/oMJBZHlo9k14CiUTDplERJ/fib/Ncg=="
+      "url": "https://github.com/command-center-ai/command-center/releases/download/electron-v1.3.0/Command-Center-1.3.0-x86_64.AppImage",
+      "hash": "sha512-yEbSXvu+/H8QKJ9e9DhvN0EzgMyY6/DqSUwrsHTzf7WY7ntZ8WlyGInv6q9/EyAeS2joFdSFTxVVYOOolY8omg=="
     },
     "aarch64-linux": {
-      "url": "https://github.com/command-center-ai/command-center/releases/download/electron-v1.2.2/Command-Center-1.2.2-arm64.AppImage",
-      "hash": "sha512-kb+F8YGysfL/aALSEaDVqg17Q3y0uzlkxiVfD9qiQdGA9igLhpvNREM/QFzWFhMjsJWs93G9eKO3/nyYzBlA4A=="
+      "url": "https://github.com/command-center-ai/command-center/releases/download/electron-v1.3.0/Command-Center-1.3.0-arm64.AppImage",
+      "hash": "sha512-BnmvB0MjGJyKQd2ohzFGpoiplaWKFiu5Zl6n3svyN8jFY+7R6kk8sRqTzP0d6sLQAcpFCc1X+GCOQ3RSkjNBvg=="
     }
   }
 }
